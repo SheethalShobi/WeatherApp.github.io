@@ -18,7 +18,7 @@ body{
 .container{
     width: 400px;
     height: min-content;
-    background: linear-gradient(180deg,#62ed62,hsl(195, 80%, 54%));
+    background: linear-gradient(180deg,#aeeeae,hsl(195, 80%, 54%));
     color: #fff;
     border-radius: 12px;
     padding: 28px;
